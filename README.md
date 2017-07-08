@@ -1,0 +1,3 @@
+# JS-course
+
+Course tasks
