@@ -1,5 +1,4 @@
-function imperialUnits([inches]) {
-    inches = Number(inches);
+function imperialUnits(inches) {
     let foot = Number.parseInt(inches/12);
     inches = inches % 12;
 
